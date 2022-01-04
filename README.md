@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Umair-Yaqub
+- 👋 Hi, I’m Muhammad Umair Yaqub
 - 👀 I’m interested in designing drones.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on AI.
