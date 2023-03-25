@@ -1,5 +1,7 @@
 # Umair "Legend"
 
+![Top Secret](Profile Card.png "Top Secret")
+
 ## About Me
 
 I'm the king of the polygonal realm! I create 3D stylized characters for games, printing or NFT, and I do it with style.
@@ -12,7 +14,7 @@ Take a look at my portfolio and prepare to be dazzled by my epic creations.
 
 ## Contact Me
 
-Got a project that needs my Low Poly expertise? Shoot me an email at umairyaqubofficial@gmail.com. 
+Got a project that needs my Low Poly expertise? Shoot me an email at umairyaqubofficial@gmail.com.
 Or if you just want to chat about games, art, or anything else, hit me up - I'm always ready to connect with like-minded peeps!
 
-# Don't be shy, come say hi!
+## Don't be shy, come say hi
